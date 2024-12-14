@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 22 11:19:03 2024
 
 @author: Francesca
 """
