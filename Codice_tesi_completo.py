@@ -7,7 +7,6 @@ import cartopy.crs as ccrs
 import pandas as pd
 import cartopy.io.img_tiles as cimgt
 import geopandas as gpd
-import pandas as pd
 import numpy as np
 import matplotlib.dates as mdates
 from datetime import datetime, timedelta
